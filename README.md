@@ -1,4 +1,6 @@
 # Android Room with a view
+### 1. Introduction
+### 2. Create your app
 ### 3.Gradle文件
 
 1.在build.gradle(Module:app)添加kapt插件
